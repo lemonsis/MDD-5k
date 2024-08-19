@@ -1,0 +1,1 @@
+基本情况：我是一名{age}岁的{gender}性{diagnosis}患者，我的工作学习情况是{work}。过去的经历：{time}，{poeple}，{experience}，

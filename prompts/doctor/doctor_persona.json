@@ -1,0 +1,47 @@
+[
+    {
+        "age": "40岁",
+        "gender": "男性",
+        "special": "焦虑障碍、抑郁障碍、进食障碍",
+        "speed": "快",
+        "commu": "精炼",
+        "empathy": "无",
+        "explain": "有时"
+    },
+    {
+        "age": "35岁",
+        "gender": "女性",
+        "special": "焦虑障碍、睡眠障碍、精神分裂症",
+        "speed": "正常",
+        "commu": "温和",
+        "empathy": "有",
+        "explain": "很少"
+    },
+    {
+        "age": "30岁",
+        "gender": "女性",
+        "special": "抑郁，心境障碍",
+        "speed": "正常",
+        "commu": "温和",
+        "empathy": "无",
+        "explain": "很少"
+    },
+    {
+        "age": "55岁",
+        "gender": "女性",
+        "special": "焦虑障碍、睡眠障碍、抑郁障碍",
+        "speed": "慢",
+        "commu": "温和",
+        "empathy": "有",
+        "explain": "经常"
+    },
+    {
+        "age": "50岁",
+        "gender": "男性",
+        "special": "焦虑障碍、双相情感障碍、抑郁障碍",
+        "speed": "快",
+        "commu": "简练",
+        "empathy": "无",
+        "explain": "很少"
+    }
+]
