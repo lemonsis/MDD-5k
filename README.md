@@ -1,5 +1,5 @@
 # MDD-5k
-Official Implementation of "MDD-5k: A New Diagnostic Conversation Dataset for Mental Disorders Synthesized via Neuro-Symbolic LLM Agents"
+Official Implementation of AAAI 2025 paper "MDD-5k: A New Diagnostic Conversation Dataset for Mental Disorders Synthesized via Neuro-Symbolic LLM Agents"
 ## Preprocessing Steps
 Run `python patient_template_gen.py` to get statistics of MDD-5k dataset and generate fictitious patient experiences
 ## Synthesize Diagnostic Conversation
