@@ -15,4 +15,4 @@ Current code only supports using deployed model for generation. You can either a
 
 Then run `python main.py` to start synthesizing data.
 ## Example
-One real patient case is shown in `./raw_data/pa20.json`. Five fictitious patient experiences generated with this patient case are shown in `./prompts/background_story/patient_1`. The synthesized diagnostic conversations are in `./DataSyn/patient1.json`. The complete MDD-5k dataset will release when the ethics review finishes.
+One real patient case is shown in `./raw_data/pa20.json`. Five fictitious patient experiences generated with this patient case are shown in `./prompts/background_story/patient_1`. The synthesized diagnostic conversations are in `./DataSyn/patient1.json`. 
